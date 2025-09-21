@@ -1,0 +1,33 @@
+# ID Replacement Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]ID Replacement Form[/head]
+█ ▀█     █        [color=grey]Form C-006[/color][/color]
+──────────────────────────────────────────
+This form is to be used to apply for a replacement ID card for the applicant.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Reason [/head]
+
+[color=grey]Select one.[/color]
+• [ ] Stolen ID - The ID was stolen and must be replaced.
+• [ ] Lost ID - The ID was lost and must be replaced.
+• [ ] Damaged ID - The ID is damaged and must be replaced.
+• [ ] Upgraded ID - The ID is outdated and must be replaced.
+• [ ] Other - Fill in the reason below.
+Reason:            [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Additional Items[/head]
+
+[color=grey]Select all that apply.[/color]
+• [x] New ID card - A new ID card is to be issued.
+• [ ] New PDA - A new PDA is to be issued.
+• [ ] Headset - A new headset is to be issued.
+
+
+[head=2]4) Authorisation[/head]
+
+This document requires a stamp of the head of personnel and signature of the applicant.
+──────────────────────────────────────────

@@ -1,0 +1,21 @@
+# Job Customization Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Job Customization Form[/head]
+█ ▀█     █        [color=grey]Form C-007[/color][/color]
+──────────────────────────────────────────
+This form is to be used to apply for a job customization for the applicant.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant's current job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Job Customization [/head]
+
+Custom title:  [color=#002AAF]Title[/color]
+Custom icon:  [color=#002AAF]Icon name[/color]
+Reason:            [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Authorisation[/head]
+
+This document requires a stamp of the proper department head and signature of the applicant.
+──────────────────────────────────────────

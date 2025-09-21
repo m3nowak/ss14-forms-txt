@@ -1,0 +1,21 @@
+# Free Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Free Form[/head]
+█ ▀█     █        [color=grey]Form X-001[/color][/color]
+──────────────────────────────────────────
+This form is to be used for any requests that do not fit into standard categories.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Additional Information [/head]
+
+Request:  [color=#002AAF]Sample Request[/color]
+Reason:    [color=#002AAF]Sample Reason[/color]
+
+
+[head=2]3) Authorisation[/head]
+
+This document requires a stamp of the proper department head and signature of the applicant.
+──────────────────────────────────────────

@@ -1,0 +1,28 @@
+# Search Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Search Form[/head]
+█ ▀█     █        [color=grey]Form S-002[/color][/color]
+──────────────────────────────────────────
+This form is to be used to request a search of a person with their belongings, or their workplace.
+
+[head=2]1) Requesting Officer[/head]
+
+Officer name:   [color=#002AAF]Sample Person[/color]
+Officer Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Subject of Search[/head]
+
+Subject name:   [color=#002AAF]Sample Person[/color]
+Subject Job:     [color=#002AAF]Sample Job[/color]
+Scope:       [color=#002AAF]Sample Location[/color]
+
+[head=2]3) Authorisation[/head]
+
+Personal searches require a stamp of the Head of Security, Warden, department head of the subject, or Captain.
+Workplace searches require a stamp of the department head of the subject, or Captain.
+All searches require a signature of the requesting officer.
+The requesting officer cannot authorize a search.
+
+[head=2]4) Notice[/head]
+
+All legal items found during the search must be returned to the subject or left in the workplace.
+──────────────────────────────────────────

@@ -1,0 +1,23 @@
+# Additional Access Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Additional Access Form[/head]
+█ ▀█     █        [color=grey]Form C-001[/color][/color]
+──────────────────────────────────────────
+This form is to be used to apply for additional access, which will be added to the ID card of the applicant.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Access [/head]
+
+Access requested:  
+        - [color=#002AAF]Sample Access[/color]
+        - [color=#002AAF]Sample Access[/color]
+        - [color=#002AAF]Sample Access[/color]
+Reason:            [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Authorisation[/head]
+
+This document requires a stamp of the proper department head and signature of the applicant.
+──────────────────────────────────────────

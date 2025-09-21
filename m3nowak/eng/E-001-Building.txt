@@ -1,0 +1,29 @@
+# Building Permit
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Building Permit[/head]
+█ ▀█     █        [color=grey]Form E-001[/color][/color]
+──────────────────────────────────────────
+This permit is to be used to allow construction or modification of station structures.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Construction [/head]
+
+Project name:  [color=#002AAF]Sample Project[/color]
+Reason:            [color=#002AAF]Sample Reason[/color]
+Area to be modified:   [color=#002AAF]Sample Area[/color]
+
+
+[head=2]3) Authorisation[/head]
+
+All construction projects require a stamp of the Chief Engineer and signature of the applicant. 
+If construction is to be done in a department other than Engineering or in common areas, approval from the head of the department that will be modified is also required.
+
+[head=2]4) Notice[/head]
+
+This permit may be revoked at any time for any reason by the Chief Engineer or higher authority.
+This permit does not authorize any unsafe or illegal construction practices.
+This permit does not allow the applicant to use any of the engineering resources without explicit permission from the Chief Engineer.
+──────────────────────────────────────────

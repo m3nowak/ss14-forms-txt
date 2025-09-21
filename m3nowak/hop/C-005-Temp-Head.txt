@@ -1,0 +1,39 @@
+# Temporary Department Head Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Temporary Head Form[/head]
+█ ▀█     █        [color=grey]Form C-005[/color][/color]
+──────────────────────────────────────────
+This form is to be used to apply for a temporary department head position for the applicant.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant's current job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Temporary Assignment [/head]
+
+Temporary job:  [color=#002AAF]Sample New Job[/color]
+Reason:        [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Required consents  [/head]
+
+[color=grey]Mark all that apply.[/color]
+• [ ] Mindshield (Required)
+• [ ] Non disclosure agreement
+• [ ] Rejection of a salary increment (Required)
+
+[head=2]4) Type of assignment [/head]
+
+[color=grey]Select one.[/color]
+• [ ] Full assignment - Full title of the department head
+• [ ] Acting assignment - Title prefixed with "Acting"
+• [ ] Interim assignment - Title prefixed with "Interim"
+• [ ] Stealth assignment - Current title is appended with "(Temp Head)", also icon is left unchanged.
+
+[head=2]5) Authorisation[/head]
+
+This document requires a stamp of the Captain and signature of the applicant.
+
+[head=2]6) Notice[/head]
+
+Temporary department heads have all the authority of a regular department head. When a regular department head returns, the temporary assignment is revoked and the applicant returns to their previous job.
+──────────────────────────────────────────

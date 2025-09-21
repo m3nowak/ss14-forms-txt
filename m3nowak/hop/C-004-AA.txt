@@ -1,0 +1,34 @@
+# All Access Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]All Access Form[/head]
+█ ▀█     █        [color=grey]Form C-004[/color][/color]
+──────────────────────────────────────────
+This form is to be used to apply for all access, which will be added to the ID card of the applicant.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Access [/head]
+
+Reason:            [color=#002AAF]Sample Reason[/color]
+Type:
+[color=grey]Select one.[/color]
+• [ ] Full AA - Full access to all areas, including restricted ones.
+• [ ] Limited AA - Access to all areas, excluding Captain's Quarters, Armory, Vault and offices of department heads.
+• [ ] Base access - Access only to service areas, and brig, medical, science, cargo and engineering departments (base only).
+
+[head=2]3) Authorisation[/head]
+
+This document requires stamps of:
+• Captain
+• Head of Personnel
+• Head of Security
+• Chief Engineer
+• Chief Medical Officer
+• Research Director
+• Clown
+
+Additionally, signature of the applicant is required.
+
+──────────────────────────────────────────

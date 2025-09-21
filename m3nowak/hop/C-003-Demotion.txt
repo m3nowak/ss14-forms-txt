@@ -1,0 +1,24 @@
+# Demotion Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Demotion Form[/head]
+█ ▀█     █        [color=grey]Form C-003[/color][/color]
+──────────────────────────────────────────
+This form is to be used to demote a subordinate employee to a lower rank.
+
+[head=2]1) Demotor[/head]
+
+[color=grey]Department head or supervisor of demotee[/color]
+Demotor:   [color=#002AAF]Sample Person[/color]
+Demotor's job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Demotee [/head]
+
+[color=grey]Person being demoted[/color]
+Demotee:   [color=#002AAF]Sample Person[/color]
+Demotee's current job:     [color=#002AAF]Sample Job[/color]
+New job:  [color=#002AAF]Sample New Job[/color]
+Reason:        [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Authorisation[/head]
+
+This document requires a stamp of the proper department head and signature of the demotor. It should be given to the demotee for their records.
+──────────────────────────────────────────

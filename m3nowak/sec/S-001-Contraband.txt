@@ -1,0 +1,24 @@
+# Restricted Item Permit
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Restricted Item Permit[/head]
+█ ▀█     █        [color=grey]Form S-001[/color][/color]
+──────────────────────────────────────────
+This permit is to be used to issue exceptions for carrying restricted items.
+
+[head=2]1) Applicant[/head]
+
+Applicant name:   [color=#002AAF]Sample Person[/color]
+Applicant Job:     [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Items [/head]
+
+Items requested:  
+        - [color=#002AAF]Sample Item[/color]
+        - [color=#002AAF]Sample Item[/color]
+        - [color=#002AAF]Sample Item[/color]
+Reason:            [color=#002AAF]Sample Reason[/color]
+
+[head=2]3) Authorisation[/head]
+
+Items restricted to a certain department require a stamp of the proper department head. Additionally, the form requires a signature of the applicant.
+Syndicate contraband, magic items, and other highly illegal items require approval from the Captain or higher authority.
+──────────────────────────────────────────

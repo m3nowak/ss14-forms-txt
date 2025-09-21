@@ -27,7 +27,7 @@ Reason:        [color=#002AAF]Sample Reason[/color]
 • [ ] Full assignment - Full title of the department head
 • [ ] Acting assignment - Title prefixed with "Acting"
 • [ ] Interim assignment - Title prefixed with "Interim"
-• [ ] Stealth assignment - Current title is appended with "(Temp Head)", also icon is left unchanged.
+• [ ] Stealth assignment - Current title is appended with "(Acting Head)", also icon is left unchanged.
 
 [head=2]5) Authorisation[/head]
 

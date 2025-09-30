@@ -1,0 +1,39 @@
+# Non-Disclosure Agreement
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Non-Disclosure Agreement[/head]
+█ ▀█     █        [color=grey]Form C-008[/color][/color]
+──────────────────────────────────────────
+[head=2]EMPLOYEE INFORMATION[/head]
+Employee Name: 
+Department: 
+Position: 
+
+[head=2]CONFIDENTIAL INFORMATION[/head]
+This agreement covers all confidential and proprietary information including but not limited to:
+• Station operational procedures and protocols
+• Security codes and access information
+• Personnel records and employment data
+• Technical specifications and blueprints
+• Financial records and budget information
+• Research data and experimental procedures
+• Trade secrets and proprietary methods
+
+[head=2]OBLIGATIONS[/head]
+The undersigned agrees to:
+1. Maintain strict confidentiality of all privileged information
+2. Not disclose confidential information to unauthorized personnel
+3. Use confidential information solely for authorized duties
+4. Return all confidential materials upon termination of employment
+5. Report any suspected breaches of confidentiality immediately
+
+[head=2]DURATION[/head]
+This agreement remains in effect during employment and continues indefinitely after termination of employment with Nanotrasen Corporation.
+
+[head=2]ACKNOWLEDGMENT[/head]
+I acknowledge that I have read, understood, and agree to comply with all terms of this Non-Disclosure Agreement. I understand that violation of this agreement may result in disciplinary action up to and including termination and legal prosecution.
+
+
+[head=2]SIGNATURES[/head]
+
+This document requires a signature of the applicant.
+
+──────────────────────────────────────────

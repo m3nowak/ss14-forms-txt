@@ -1,0 +1,26 @@
+# Visitor ID Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Visitor ID Form[/head]
+█ ▀█     █        [color=grey]Form C-009[/color][/color]
+──────────────────────────────────────────
+This form is to be used to request a visitor ID card for non-crew personnel requiring temporary station access. ID Form
+
+[head=2]1) Visitor Information[/head]
+
+Visitor name:      [color=#002AAF]Sample Person[/color]
+Organization:      [color=#002AAF]Sample Organization[/color]
+Purpose of visit:  [color=#002AAF]Sample Purpose[/color]
+Expected duration: [color=#002AAF]Sample Duration[/color]
+Are you a terrorist:  [color=#002AAF]Yes/No[/color]
+
+[head=2]2) Access Requirements[/head]
+
+Areas requiring access:  
+        - [color=#002AAF]Sample Area[/color]
+        - [color=#002AAF]Sample Area[/color]
+        - [color=#002AAF]Sample Area[/color]
+
+
+[head=2]3) Authorization[/head]
+
+This document requires signature of the visitor. If specific area access is requested, a stamp from the relevant department head is also required.
+──────────────────────────────────────────

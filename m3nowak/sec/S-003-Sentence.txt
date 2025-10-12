@@ -1,0 +1,65 @@
+# Sentence Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Sentence Form[/head]
+█ ▀█     █        [color=grey]Form S-003[/color][/color]
+──────────────────────────────────────────
+This form is to be used to request a search of a person with their belongings, or their workplace.
+
+[head=2]1) Sentencing Officer[/head]
+
+Officer name:   [color=#002AAF]Sample Person[/color]
+Officer Job:    [color=#002AAF]Sample Job[/color]
+
+[head=2]2) Subject of the Sentence[/head]
+
+Subject name:   [color=#002AAF]Sample Person[/color]
+Subject Job:    [color=#002AAF]Sample Job[/color]
+
+[head=2]3) Crimes[/head]
+[color=grey]Mark all that apply.[/color]
+
+[head=3]I Degree[/head]
+< > Disturbance - 2:00
+< > Petty Theft - 3:00
+< > Possession/Use of Illegal Substances - 3:00
+< > Tresspass - 2:00
+< > Vandalism - 2:00
+[head=3]II Degree[/head]
+< > Animal Cruelty - 5:00
+< > Damage/Destruction of Property - 4:00
+< > Endangerment - 4:00
+< > Failure to Comply - 2:00
+< > Possession of Restricted Gear - 5:00
+< > Rioting - 4:00
+[head=3]III Degree[/head]
+< > Assault/Battery - 6:00
+< > Breach of Arrest - 4:00
+< > Grand Theft - 6:00
+< > Manslaughter - 10:00
+< > Mass Destruction - 15:00
+< > Possession of Restricted Weaponry - 6:00
+< > Secure Tresspass - 8:00
+< > Breach of Custody - 5:00
+[head=3]IV Degree[/head]
+< > Kidnapping - 10:00
+< > Murder - 10:00
+[head=4]V Degree[/head]
+< > Mass Murder - Permanent
+< > Capital Negligence - Permanent/Demotion
+< > Prevention of Revival - Permanent
+< > Refusal of Mental Shielding - Permanent
+< > Terrorism - Execution
+
+[head=2]4) Summary [/head]
+Notes: [color=#002AAF]None[/color]
+Summed Crime Time:  [color=#002AAF]0:00[/color]
+Time deducted - processing: [color=#002AAF]0:00[/color]
+Time deducted - other: [color=#002AAF]0:00[/color]
+Final Sentence Time: [color=#AF2A00]0:00[/color]
+
+
+[head=2]5) Authorisation[/head]
+
+Requires a stamp of the Head of Security or Warden. If those are unavailable, a security officer may sign it.
+Execution requires approval from the Captain.
+
+──────────────────────────────────────────
